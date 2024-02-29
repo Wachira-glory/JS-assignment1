@@ -1,0 +1,151 @@
+.topnavbar{
+    text-align: center;
+    margin-top: 2%;
+    width:79%;
+    
+}
+.carra{
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    margin-left: 22.5%;
+    margin-top: 0.5%;
+    
+}
+
+.content{
+    margin-left: 18%;
+}
+h1{
+    font-size: 350%;
+}
+
+.pic2{  
+    margin-top: 0%;
+}
+.statistics{
+    font-size: 220%;
+
+}
+.items{
+    font-size: 50%;
+    font-weight: bold;
+}
+.pic1{
+    float: right;
+    margin-top: 0%;
+    margin-right: 30%;
+    
+}
+.section{
+  
+    justify-content:space-between;
+}
+
+.ikea {
+    font-weight: lighter;
+    font-size: 300%;
+    
+}
+.restyle{
+    font-size: 180%;
+    text-align: center;
+    margin-right: 10%;
+}
+.restyle p{
+    font-size: 60%;
+}
+#buton{
+    width:16%;
+    border-radius: 31px;
+    border: 2px solid black;
+    padding: 24px 16px;
+    color:black
+}
+
+
+.promotions{
+    display: grid;
+    grid-template-rows: 75px auto;
+    grid-template-columns: 15px auto;
+}
+.promotions2{
+    margin-left: 40%;
+   
+}
+.p1{
+    line-height: 30px;
+}
+.promotions3{
+    margin-left: 40%;
+    margin-top: 0%;
+    overflow: hidden;
+}
+.promotions4{
+    float:right;
+    margin-right: 32%;
+}
+.prom{
+    grid-template-rows: 75px auto;
+    grid-template-columns: 15px auto;
+
+}
+.column{
+    display: grid;
+    grid-template-columns: repeat(4,2fr);
+    margin-right: 21%;
+    text-align: center;
+    gap: 10px;
+}
+.no-bullets{
+    list-style-type: none;
+    
+   
+}
+.row1{
+    float: left;
+    width: 33.3%;
+    padding: 5px;
+}
+.parker{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 91%;
+}
+.arrow{
+    margin-left: 35%;
+}
+.footer{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    
+}
+h6{
+    font-size: 90%;
+    font-weight: lighter;
+}
+h4{
+    font-weight: lighter;
+}
+.col{
+    display: grid;
+    grid-template-columns: repeat(4,2fr);
+    margin-right: 21%;
+    gap: 10px;  
+}
+#buttton{
+    width:10%;
+    border-radius: 31px;
+    padding: 24px 16px;
+    color:white;
+    background-color: rgb(58, 55, 55);
+
+}
+#butoon{
+    width:10%;
+    border-radius: 31px;
+    padding: 24px 16px;
+    color:black;
+    
+}
